@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sunaonahito.github.io/dice-of-destiny-online4/",
+  "homepage": "https://sunaonahito.github.io/dice-of-destiny-online5/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/sunaonahito/dice-of-destiny-online4.git"
+    "deploy": "gh-pages -d dist -r https://github.com/sunaonahito/dice-of-destiny-online5.git"
   },
   "dependencies": {
     "react": "^18.3.1",

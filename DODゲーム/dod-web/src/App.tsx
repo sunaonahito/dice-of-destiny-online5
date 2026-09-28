@@ -765,7 +765,7 @@ function App() {
         {T.thanksGoTitle}
       </button>
       <a
-        href={lang === 'en' ? "https://sunaonahito.github.io/game-survey/index_en.html" : "https://sunaonahito.github.io/game-survey/"}
+        href={lang === 'en' ? "https://sunaonahito.github.io/game-survey-v2/index_en.html" : "https://sunaonahito.github.io/game-survey-v2/index_v2_20260928.html"}
         target="_self"
         rel="noopener noreferrer"
         style={{ display: 'inline-block', marginTop: '1rem', fontSize: '1.2rem', padding: '1rem 3rem', borderRadius: '50px', background: 'rgba(232,164,74,0.6)', border: '2px solid rgba(232,164,74,0.9)', color: '#fff', textDecoration: 'none', fontWeight: 'bold', boxShadow: '0 4px 15px rgba(0,0,0,0.4)' }}
